@@ -35,7 +35,7 @@ Includes rationale, manual step-by-step instructions, browser hardware accelerat
 
 ## Why This Guide Exists
 
-If you migrated to Fedora from distributions like **CachyOS**, **Arch Linux**, or **Ubuntu**, you may notice that:
+On a fresh or default installation of Fedora Linux, you may notice that:
 - 1080p and 4K YouTube/Twitch videos make your fans ramp up or drop frames.
 - Local media streaming clients (e.g., **Jellyfin**, **Plex**) take a long time to buffer or force the server to transcode.
 - Battery life drops significantly while watching videos on laptops.
